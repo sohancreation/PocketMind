@@ -1,0 +1,34 @@
+# Built artifacts
+**/build/
+**/bin/
+**/out/
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Android Studio
+captures/
+local.properties
+.externalNativeBuild
+.cxx
+cmake-build-debug/
+
+# Local configuration
+.DS_Store
+*.swp
+*.bak
+*.tmp
+_tmp/
+_models/
+
+# Images from emulator/temp
+_tmp_emulator_screen.jpg
+_tmp_emulator_screen.png
+_tmp_window.xml
