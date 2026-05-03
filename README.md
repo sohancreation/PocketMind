@@ -2,6 +2,9 @@
 
 ![PocketMind Banner](assets/banner.png)
 
+## 📥 Download APK
+[**Click here to download the latest PocketMind APK**](https://github.com/sohancreation/PocketMind/raw/main/release/app-release.apk)
+
 **PocketMind** is a cutting-edge, privacy-focused Android application that brings the power of Large Language Models (LLMs) directly to your pocket. By running AI models locally on your device, PocketMind ensures that your conversations stay private, secure, and accessible even without an internet connection.
 
 ---
